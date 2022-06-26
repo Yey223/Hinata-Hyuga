@@ -17,24 +17,24 @@
   global.anticall = true // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
   global.available = true // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
-  global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
+  global.autoRecord = false // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
-  global.limitCount = 70 // 70 Dah Pas Banh
+  global.limitCount = 10 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'ArullOfc' // Ganti Jadi Namamu
-  global.owner = ['6285822347348','6285822347348','6285822347348'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6285822347348' // Owner Utama Istilahnya
-  global.botname = 'ArullBotzMD' // Ganti Jadi Nama Botmu
+  global.ownername = 'TegarzOfc' // Ganti Jadi Namamu
+  global.owner = ['62895323254598','62895323254598','6285254201631'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '62895323254598' // Owner Utama Istilahnya
+  global.botname = 'yeyzxbotz(beta)' // Ganti Jadi Nama Botmu
   global.packname = 'Sticket By' // Sticker Weem
-  global.author = 'ArullOfc' // Sticker Weem
-  global.webme = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' // Ganti Sama Link Gc Mu
+  global.author = 'muhammad tegar' // Sticker Weem
+  global.webme = 'https://youtube.com/GK punya web' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/KbfV3eKbn123o8tPPuLJ5A' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/sahrulwara_____' // Ganti Sama Link Ig mu
+  global.youtube = 'https://youtube.com/channel/UCswCSCPrwTW3Eu2avG15L8Q' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/Yey223' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/tegarsatrio' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
